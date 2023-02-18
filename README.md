@@ -1,0 +1,2 @@
+# BERT_and_BiLSTM
+ In this study, a comparison of two state-of-the-art models for emotion detection in text is presented. Distributed representations of words for the BiLSTM model were obtained through pre-training with the Word2Vec method. BERT (Bidirectional Encoder Representations from Transform- ers) and Bi-directional LSTM (BiLSTM) were fine-tuned and trained re- spectively on the ISEAR dataset and then evaluated on the task of emo- tion detection. The emotion classes that are going to be studied are: joy, fear, anger, sadness, shame, disgust and guilt.
